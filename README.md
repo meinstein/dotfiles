@@ -1,3 +1,3 @@
 #### Add Symlink
 
-`ln -s Desktop/me/dotfiles/zshrc .zshrc`
+`ln -s ~/Desktop/me/dotfiles/zshrc ~/.zshrc`

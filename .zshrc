@@ -1,1 +1,0 @@
-Desktop/me/dotfiles/zshrc
