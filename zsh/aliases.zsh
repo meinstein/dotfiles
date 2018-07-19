@@ -2,7 +2,7 @@
 alias ll='ls -GAhl'
 alias ls='ls -GFh'
 
-alias platform='~/Desktop/ds/platform'
-alias darkroom='~/Desktop/ds/darkroom'
-alias ds='~/Desktop/ds'
-alias me='~/Desktop/me'
+alias platform='~/ds/platform'
+alias darkroom='~/ds/darkroom'
+alias ds='~/ds'
+alias me='~/me'
