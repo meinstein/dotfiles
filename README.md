@@ -36,7 +36,3 @@ brew install zsh-autosuggestions
 ```
 cd zsh && touch secrets.zsh
 ```
-
-# Visual Studio Code
-- Launching from the command line: Open the Command Palette `(⇧⌘P)` and type `shell command` to find the Shell Command: Install 'code' command in PATH command.
-- Key bindings: Use Atom key bindings.
