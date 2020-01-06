@@ -6,5 +6,3 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-# Load NVM
-source $HOME/.nvm/nvm.sh

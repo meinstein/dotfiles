@@ -2,7 +2,6 @@
 alias ll='ls -GAhl'
 alias ls='ls -GFh'
 
-alias platform='~/ds/platform'
-alias darkroom='~/ds/darkroom'
-alias ds='~/ds'
 alias me='~/me'
+alias br='~/brenger'
+alias brenger='~/brenger'
