@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "DankMono-Regular",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13
+}
