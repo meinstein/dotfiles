@@ -23,3 +23,6 @@ Launching from the command line: Open the Command Palette `(⇧⌘P)` and type `
 # GitLens — Git supercharged
 - `eamodio.gitlens`
 - `https://github.com/eamodio/vscode-gitlens`
+
+# VIM bindings
+- `vscodevim.vim`
