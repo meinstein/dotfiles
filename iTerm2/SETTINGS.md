@@ -8,5 +8,5 @@
 ### Config fonts
 
 1. Click iTerm2 → Preferences → Profiles → Text
-2. Font is `Dank Mono`
+2. Font is `Dank Mono` or `JetBrains Mono`
 3. Select `Use ligatures`
