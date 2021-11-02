@@ -3,5 +3,6 @@ alias ll='ls -GAhl'
 alias ls='ls -GFh'
 
 alias me='~/me'
-alias br='~/brenger'
-alias brenger='~/brenger'
+alias op='~/ophelia'
+alias sc='~/screenshots'
+alias dl='~/Downloads'
