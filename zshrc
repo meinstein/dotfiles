@@ -1,4 +1,6 @@
-ZSH_THEME="robbyrussell"
+ZSH_THEME="agnoster"
+DEFAULT_USER="maximillianeinstein"
+
 source ~/me/dotfiles/zsh/exports.zsh
 source ~/me/dotfiles/zsh/aliases.zsh
 source ~/me/dotfiles/zsh/functions.zsh
