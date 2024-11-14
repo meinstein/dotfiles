@@ -17,3 +17,6 @@ alias server='~/op/mono/server'
 alias fns='~/op/mono/server/functions'
 alias sc='~/screenshots'
 alias dl='~/Downloads'
+
+# git aliases
+alias gmp='gcm && ggpull'
