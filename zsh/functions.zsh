@@ -17,7 +17,7 @@ bindkey "^M" magic-enter
 # gitit "my commit message"
 gitit() {
     git add --all
-    git commit -m "$1" --no-verify
+    git commit -m "$*" --no-verify
     git push origin $(git_current_branch)
 }
 
