@@ -32,3 +32,8 @@ enter_directory() {
 }
 
 chpwd_functions+=(enter_directory)
+
+# Generate a UUID, add to clipboard, and echo to terminal
+uuid() {
+  uuidgen | tr "[:upper:]" "[:lower:]" | pbcopy && pbpaste
+}
