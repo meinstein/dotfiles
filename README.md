@@ -32,6 +32,12 @@ ln -s ~/me/dotfiles/zshrc ~/.zshrc
 brew install zsh-autosuggestions
 ```
 
+### Install Node (via NVM)
+- https://nodejs.org/en/download
+
+### Install Deno
+- https://docs.deno.com/runtime/getting_started/installation/
+
 ### Populate secrets
 ```
 cd zsh && touch secrets.zsh
