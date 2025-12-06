@@ -1,10 +1,11 @@
 # Set up
 
+One core assumption is the existence of a dev directory at `~/me`
+
 ### Clone this repo into correct location
 ```shell
 cd ~/me && git clone git@github.com:meinstein/dotfiles.git
 ```
-
 
 ### Install Homebrew
 ```shell

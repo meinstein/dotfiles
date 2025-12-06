@@ -13,8 +13,12 @@ source ~/.nvm/nvm.sh
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/meinstein/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/meinstein/Downloads/google-cloud-sdk/path.zsh.inc'; fi
+if [ -f ~/.Downloads/google-cloud-sdk/path.zsh.inc ]; then . ~/.Downloads/google-cloud-sdk/path.zsh.inc; fi
 
 # The next line enables shell command completion for gcloud.
-if [ -f '/Users/meinstein/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/meinstein/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
-. "/Users/meinstein/.deno/env"
+if [ -f ~/.Downloads/google-cloud-sdk/completion.zsh.inc ]; then . ~/.Downloads/google-cloud-sdk/completion.zsh.inc; fi
+
+# Deno
+if [ -f ~/.deno/env ]; then . ~/.deno/env; fi
+
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
