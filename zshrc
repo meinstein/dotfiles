@@ -21,4 +21,5 @@ if [ -f ~/.Downloads/google-cloud-sdk/completion.zsh.inc ]; then . ~/.Downloads/
 # Deno
 if [ -f ~/.deno/env ]; then . ~/.deno/env; fi
 
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# This loads nvm bash_completion
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"

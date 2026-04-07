@@ -1,3 +1,3 @@
 export ZSH=$HOME/.oh-my-zsh
 export DENO_INSTALL=/Users/meinstein/.deno
-export PATH=$DENO_INSTALL/bin:$PATH
+export PATH="$DENO_INSTALL/bin:$HOME/.local/bin:$PATH"
